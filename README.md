@@ -126,20 +126,18 @@ The automation workflow runs using scheduled triggers and webhook events.
 
 ---
 
-```markdown
 ## Repository Structure
 
 ```text
-AI-Github-Code-Reviewer
+AI-PR-Code-Reviewer
+│
+├── workflows
+│   └── n8n-workflow.json
 │
 ├── docs
 │   ├── architecture.png
 │   ├── workflow.png
-│   ├── pr-review.png
-│   └── deployment.png
-│
-├── workflows
-│   └── n8n-workflow.json
+│   └── pr-comment.png
 │
 └── README.md
 
