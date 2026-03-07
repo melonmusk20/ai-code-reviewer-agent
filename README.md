@@ -72,17 +72,19 @@ Comment on Pull Request
 
 ## Tech Stack
 
- n8n – workflow automation engine
+ • n8n – workflow automation engine
 
-GitHub API – pull request events and data
+ • GitHub API – pull request events and data
+ 
+ • Render – cloud deployment platform
 
-Render – cloud deployment platform
+ • Webhooks – event-driven triggers
 
-Webhooks – event-driven triggers
+ • AI Model – automated code analysis
 
-AI Model – automated code analysis
+---
 
-Features
+## Features
 
  • Automated pull request monitoring
 
