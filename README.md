@@ -58,6 +58,12 @@ Comment on Pull Request
 
 ---
 
+
+## n8n Workflow
+
+![Workflow](workflow.png)
+
+
 ## Tech Stack
 
  n8n – workflow automation engine
